@@ -11,7 +11,7 @@ If user uploads contracts, the app extract metadata.
 - Title, Parties(Name, address, reference name, clause)
 - Execution date, effective date, expiration date, contract duration, renewal date
 - Jurisdictions(clause, region)
-[Azure Document AI docs - contract AI schema](https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/contract.md)
+- [Azure Document AI docs - contract AI schema](https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/contract.md)
 
 # License
 The source code is not disclosed as this project was developed in association with Jigo.ai and is licensed under Jigo.ai Corporation.
